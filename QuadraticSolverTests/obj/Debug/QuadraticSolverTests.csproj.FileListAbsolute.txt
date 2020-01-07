@@ -1,0 +1,17 @@
+F:\Source\cs371\tddExample\UnitTestProject1\obj\Debug\QuadraticSolverTests.csprojAssemblyReference.cache
+F:\Source\cs371\tddExample\QuadraticSolverTests\obj\Debug\QuadraticSolverTests.csprojAssemblyReference.cache
+F:\Source\cs371\tddExample\QuadraticSolverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Source\cs371\tddExample\QuadraticSolverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Source\cs371\tddExample\QuadraticSolverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Source\cs371\tddExample\QuadraticSolverTests\bin\Debug\UnitTestProject1.dll
+F:\Source\cs371\tddExample\QuadraticSolverTests\bin\Debug\UnitTestProject1.pdb
+F:\Source\cs371\tddExample\QuadraticSolverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\Source\cs371\tddExample\QuadraticSolverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\Source\cs371\tddExample\QuadraticSolverTests\bin\Debug\tddExample.exe
+F:\Source\cs371\tddExample\QuadraticSolverTests\bin\Debug\tddExample.pdb
+F:\Source\cs371\tddExample\QuadraticSolverTests\bin\Debug\tddExample.exe.config
+F:\Source\cs371\tddExample\QuadraticSolverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\Source\cs371\tddExample\QuadraticSolverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\Source\cs371\tddExample\QuadraticSolverTests\obj\Debug\QuadraticSolverTests.csproj.CopyComplete
+F:\Source\cs371\tddExample\QuadraticSolverTests\obj\Debug\UnitTestProject1.dll
+F:\Source\cs371\tddExample\QuadraticSolverTests\obj\Debug\UnitTestProject1.pdb

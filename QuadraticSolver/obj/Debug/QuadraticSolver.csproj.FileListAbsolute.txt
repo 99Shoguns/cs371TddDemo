@@ -1,0 +1,2 @@
+F:\Source\cs371\tddExample\tddExample\obj\Debug\QuadraticSolver.csprojAssemblyReference.cache
+F:\Source\cs371\tddExample\QuadraticSolver\obj\Debug\QuadraticSolver.csprojAssemblyReference.cache

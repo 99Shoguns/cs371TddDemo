@@ -1,0 +1,5 @@
+F:\Source\cs371\tddExample\tddExample\bin\Debug\tddExample.exe.config
+F:\Source\cs371\tddExample\tddExample\bin\Debug\tddExample.exe
+F:\Source\cs371\tddExample\tddExample\bin\Debug\tddExample.pdb
+F:\Source\cs371\tddExample\tddExample\obj\Debug\tddExample.exe
+F:\Source\cs371\tddExample\tddExample\obj\Debug\tddExample.pdb
